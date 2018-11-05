@@ -1,0 +1,8 @@
+# cthulhu.info.yml
+name: Cthulhu
+type: theme
+description: 'Un thème indicible'
+core: 8.x
+package: Lovecraft
+libraries:
+  - cthulhu/styles-globaux

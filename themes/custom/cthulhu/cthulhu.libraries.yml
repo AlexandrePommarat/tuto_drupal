@@ -1,0 +1,6 @@
+# cthulhu.libraries.yml
+styles-globaux:
+  version: 1.x
+  css:
+    theme:
+      css/styles.css: {}
